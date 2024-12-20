@@ -1,9 +1,10 @@
 ## Hi there👋 I'm Zhiyi Ji
 
+<!--
+
 - 📫How to reach me: jizhiyi@umich.edu
 
-<!--
-⚡Languages and Tools: 
+- ⚡Languages and Tools: 
 
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=flat) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat) ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=flat) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) ![Verilog](https://img.shields.io/badge/-Verilog-1761AB?logo=logisim&logoColor=white&style=flat) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Linux Shell](https://img.shields.io/badge/-Linux_Shell-FCC624?logo=linux&logoColor=black&style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 -->
